@@ -7,3 +7,14 @@ Overview:
     - Run docker-compose.yml file with docker-compose up command.
     - Run application as spring boot application in your IDE.
     - Access the https://localhost:3000 url to view Grafana features
+   
+    Query Showcase:
+    message logged:
+      {
+      	"id":13456,
+      	"code":"A4568UBT898989",
+      	"message":"success"
+      }
+  
+    Getting "code" field from log where code is not blank:
+    {level="INFO"} | regexp `"code":"(?P<code>\w+)"` | line_format `{{.code}}` |~ `\w+`
