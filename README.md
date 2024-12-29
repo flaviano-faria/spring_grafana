@@ -21,3 +21,8 @@ Overview:
 
     ![image](https://github.com/user-attachments/assets/0cc13d4b-1f99-477b-aa61-5a2a7dcd67dc)
 
+    Using query builder: <br/>
+
+    ![image](https://github.com/user-attachments/assets/b7debe53-aad1-4e35-9595-86571def2367)
+
+
