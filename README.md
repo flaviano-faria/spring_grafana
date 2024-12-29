@@ -8,8 +8,8 @@ Overview:
     - Run application as spring boot application in your IDE.
     - Access the https://localhost:3000 url to view Grafana features
    
-    Query Showcase:
-    message logged:
+    Query Showcase: <br/>
+    message logged: <br/>
       {
       	"id":13456,
       	"code":"A4568UBT898989",
