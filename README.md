@@ -21,7 +21,7 @@ Overview:
       }
   
     Getting "code" field from log where code is not blank: <br/>
-    {level="INFO"} | regexp `"code":"(?P<code>\w+)"` | line_format `{{.code}}` |~ `\w+`<br/>
+    {level="INFO"} | regexp `"code":"(?P<code>\w+)"` | line_format \`{{.code}}\` |~ `\w+`<br/>
 
     ![image](https://github.com/user-attachments/assets/0cc13d4b-1f99-477b-aa61-5a2a7dcd67dc)
 
