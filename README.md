@@ -6,7 +6,11 @@ Overview:
     - Clone thre repository
     - Run docker-compose.yml file with docker-compose up command.
     - Run application as spring boot application in your IDE.
-    - Access the https://localhost:3000 url to view Grafana features
+    - Access the https://localhost:3000 url to view Grafana features <br/>
+   
+      Configure connection with loki:
+      ![image](https://github.com/user-attachments/assets/2aa28d9e-8f05-467f-9daa-0a47f1879f29)
+
    
     <b>Query Showcase:</b> <br/>
     message logged: <br/>
