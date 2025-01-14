@@ -30,4 +30,9 @@ Overview:
 
     ![image](https://github.com/user-attachments/assets/b7debe53-aad1-4e35-9595-86571def2367)
 
+   Getting total field from each transaction:
+
+   ![image](https://github.com/user-attachments/assets/a67b8502-9862-4074-881d-48b79b828835)
+
+
     Google re2 reference: https://github.com/google/re2/wiki/syntax
