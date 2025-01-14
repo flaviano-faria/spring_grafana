@@ -11,7 +11,7 @@ public class SpringGrafanaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringGrafanaApplication.class, args);
 		LogService service = new LogService();
-		service.log();
+		service.generateLogSequence();
 	}
 
 }
