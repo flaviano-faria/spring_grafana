@@ -35,4 +35,6 @@ Overview:
    ![image](https://github.com/user-attachments/assets/a67b8502-9862-4074-881d-48b79b828835)
 
 
+    {level="INFO"} | regexp \`"total":(?P<total>\d+.\d+)\` | line_format \`{{.total}}\` |~ `\d+.\d+\`
+    
     Google re2 reference: https://github.com/google/re2/wiki/syntax
