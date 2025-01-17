@@ -45,6 +45,7 @@ Overview:
 
     Click in transformation button then add new transformation:
 
-    ![image](https://github.com/user-attachments/assets/51b3a7f6-1836-4a63-9aff-25ec9a6c2fef)
+    ![image](https://github.com/user-attachments/assets/e7fa765d-bd46-4ecb-9474-febbdc1051a9)
+
 
 
