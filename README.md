@@ -37,13 +37,12 @@ Overview:
 
     {level="INFO"} | regexp \`"total":(?P<total>\d+.\d+)\` | line_format \`{{.total}}\` |~ `\d+.\d+\`
     
-    Google re2 reference: https://github.com/google/re2/wiki/syntax
+   
+   
 
    
 
-    Click in transformation button then add new transformation:
-
-    ![image](https://github.com/user-attachments/assets/ecf4a1ea-41b1-4680-be82-ef8c3d9cfa90)
+    ![alt text](https://github.com/user-attachments/assets/ecf4a1ea-41b1-4680-be82-ef8c3d9cfa90)
 
 
 
