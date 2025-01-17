@@ -39,13 +39,12 @@ Overview:
     
     Google re2 reference: https://github.com/google/re2/wiki/syntax
 
-    Create a New Dashboard:
-
-    ![image](https://github.com/user-attachments/assets/cd2a320d-60cd-4c3c-b183-db4e7f76612d)
+   
 
     Click in transformation button then add new transformation:
 
-    ![image](https://github.com/user-attachments/assets/859c1c78-d622-41ce-9846-7280212de958)
+    ![image](https://github.com/user-attachments/assets/ecf4a1ea-41b1-4680-be82-ef8c3d9cfa90)
+
 
 
 
